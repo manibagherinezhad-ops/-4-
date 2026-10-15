@@ -1,4 +1,4 @@
-# ⚔️ Ghost of Tsushima | A Clash of Honor
+# ⚔️ Ghost of Tsushima | 
 
 > A cinematic scene inspired by *Ghost of Tsushima*, recreated with HTML and CSS animations, featuring Jin Sakai, Lord Shimura, and one of the game's most memorable lines.
 
